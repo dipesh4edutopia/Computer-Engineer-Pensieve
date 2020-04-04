@@ -89,7 +89,7 @@
 <edge COLOR="#ffffff"/>
 <node TEXT="Third Year" POSITION="right" ID="ID_90823870" CREATED="1585821990295" MODIFIED="1585905596059" HGAP_QUANTITY="44.14634378171981 pt" VSHIFT_QUANTITY="-65.21341738170872 pt">
 <edge COLOR="#ff0000"/>
-<node TEXT="Sem 1" ID="ID_1621035724" CREATED="1585821990295" MODIFIED="1585822196396" HGAP_QUANTITY="15.756097642670499 pt" VSHIFT_QUANTITY="-12.292683498693489 pt">
+<node TEXT="Sem 1" FOLDED="true" ID="ID_1621035724" CREATED="1585821990295" MODIFIED="1585822196396" HGAP_QUANTITY="15.756097642670499 pt" VSHIFT_QUANTITY="-12.292683498693489 pt">
 <node TEXT="TE" FOLDED="true" ID="ID_258663031" CREATED="1585906604651" MODIFIED="1585906604653" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/TE/">
 <node TEXT="Computer Networks" FOLDED="true" ID="ID_510691652" CREATED="1585906604678" MODIFIED="1585906604680" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/TE/Computer%20Networks/">
 <node TEXT="Images" FOLDED="true" ID="ID_192100774" CREATED="1585906604684" MODIFIED="1585906604686" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/TE/Computer%20Networks/Images/">
@@ -264,7 +264,7 @@
 </node>
 <node TEXT="Fourth Year" POSITION="right" ID="ID_495676614" CREATED="1585821990295" MODIFIED="1585905607485" HGAP_QUANTITY="40.30488396636768 pt" VSHIFT_QUANTITY="43.353654027809554 pt">
 <edge COLOR="#009900"/>
-<node TEXT="Sem 1" ID="ID_830225927" CREATED="1585821990295" MODIFIED="1585822196396" HGAP_QUANTITY="15.756097642670499 pt" VSHIFT_QUANTITY="-12.292683498693489 pt">
+<node TEXT="Sem 1" FOLDED="true" ID="ID_830225927" CREATED="1585821990295" MODIFIED="1585822196396" HGAP_QUANTITY="15.756097642670499 pt" VSHIFT_QUANTITY="-12.292683498693489 pt">
 <node TEXT="High Performance Computing.zip" ID="ID_1747350251" CREATED="1585906604283" MODIFIED="1585906604285" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/BE/High%20Performance%20Computing.zip"/>
 <node TEXT="High Performance Computing" ID="ID_1401819840" CREATED="1585906604111" MODIFIED="1585906604114" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/BE/High%20Performance%20Computing/">
 <node TEXT="Maps" FOLDED="true" ID="ID_1239666259" CREATED="1585906604129" MODIFIED="1585906604131" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/BE/High%20Performance%20Computing/Maps/">
@@ -300,9 +300,9 @@
 <node TEXT="1_Artificial Intelligence_MasterLookup.mm" ID="ID_435691654" CREATED="1585906604035" MODIFIED="1585906604040" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/BE/Artificial%20Intelligence/1_Artificial%20Intelligence_MasterLookup.mm"/>
 </node>
 </node>
-<node TEXT="Sem 2" ID="ID_1721184639" CREATED="1585821990295" MODIFIED="1585822199460">
+<node TEXT="Sem 2" FOLDED="true" ID="ID_1721184639" CREATED="1585821990295" MODIFIED="1585822199460">
 <node TEXT="Machine Learning" ID="ID_474200106" CREATED="1585906604196" MODIFIED="1585906679656" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/BE/Sem%202/Machine%20Learning/">
-<node TEXT="Maps" FOLDED="true" ID="ID_149690259" CREATED="1585906604223" MODIFIED="1585906604225" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/BE/Sem%202/Machine%20Learning/Maps/">
+<node TEXT="Maps" ID="ID_149690259" CREATED="1585906604223" MODIFIED="1585906604225" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/BE/Sem%202/Machine%20Learning/Maps/">
 <node TEXT="b_1Be Motivated.mm" ID="ID_301339938" CREATED="1585906604232" MODIFIED="1585906604234" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/BE/Sem%202/Machine%20Learning/Maps/b_1Be%20Motivated.mm"/>
 <node TEXT="b_2Experience.mm" ID="ID_1987476028" CREATED="1585906604235" MODIFIED="1585906604237" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/BE/Sem%202/Machine%20Learning/Maps/b_2Experience.mm"/>
 <node TEXT="b_3Understand.mm" ID="ID_685923444" CREATED="1585906604237" MODIFIED="1585906604239" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/BE/Sem%202/Machine%20Learning/Maps/b_3Understand.mm"/>
@@ -310,7 +310,7 @@
 <node TEXT="b_5Foster Creation.mm" ID="ID_1939887870" CREATED="1585906604243" MODIFIED="1585906604246" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/BE/Sem%202/Machine%20Learning/Maps/b_5Foster%20Creation.mm"/>
 <node TEXT="b_6Have fun.mm" ID="ID_696009168" CREATED="1585906604247" MODIFIED="1585906604250" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/BE/Sem%202/Machine%20Learning/Maps/b_6Have%20fun.mm"/>
 </node>
-<node TEXT="1_Machine Learning_MasterLookup.mm" ID="ID_874886297" CREATED="1585906604251" MODIFIED="1585906604253" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/BE/Sem%202/Machine%20Learning/1_Machine%20Learning_MasterLookup.mm"/>
+<node TEXT="1_Machine Learning_MasterLookup.mm" ID="ID_874886297" CREATED="1585906604251" MODIFIED="1585997172352" LINK="BE/Sem%202/Machine%20Learning/1_Machine%20Learning_MasterLookup.mm"/>
 </node>
 </node>
 </node>
@@ -321,7 +321,7 @@
 </node>
 <node TEXT="Second Year" POSITION="left" ID="ID_575079876" CREATED="1585821990296" MODIFIED="1585822247135" HGAP_QUANTITY="38.31097897316809 pt" VSHIFT_QUANTITY="35.85365425132697 pt">
 <edge COLOR="#0000ff"/>
-<node TEXT="Sem 1" ID="ID_491487566" CREATED="1585821990295" MODIFIED="1585822196396" HGAP_QUANTITY="15.756097642670499 pt" VSHIFT_QUANTITY="-12.292683498693489 pt">
+<node TEXT="Sem 1" FOLDED="true" ID="ID_491487566" CREATED="1585821990295" MODIFIED="1585822196396" HGAP_QUANTITY="15.756097642670499 pt" VSHIFT_QUANTITY="-12.292683498693489 pt">
 <node TEXT="SE" ID="ID_664969956" CREATED="1585906604286" MODIFIED="1585906604288" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/SE/">
 <node TEXT="Computer Organisation" FOLDED="true" ID="ID_759662569" CREATED="1585906604316" MODIFIED="1585906604318" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/SE/Computer%20Organisation/">
 <node TEXT="Images" FOLDED="true" ID="ID_291142646" CREATED="1585906604332" MODIFIED="1585906604334" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/SE/Computer%20Organisation/Images/">
@@ -353,7 +353,7 @@
 </node>
 <node TEXT="1_Data Structures and Algorithms_MasterLookup.mm" ID="ID_748972961" CREATED="1585906604451" MODIFIED="1585906604452" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/SE/Data%20Structures%20and%20Algorithms/1_Data%20Structures%20and%20Algorithms_MasterLookup.mm"/>
 </node>
-<node TEXT="DELD" FOLDED="true" ID="ID_1095614097" CREATED="1585906604455" MODIFIED="1585906604457" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/SE/DELD/">
+<node TEXT="DELD" ID="ID_1095614097" CREATED="1585906604455" MODIFIED="1585906604457" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/SE/DELD/">
 <node TEXT="Images" FOLDED="true" ID="ID_1821930694" CREATED="1585906604461" MODIFIED="1585906604463" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/SE/DELD/Images/">
 <node TEXT="liscence.png" ID="ID_1678965105" CREATED="1585906604466" MODIFIED="1585906604468" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/SE/DELD/Images/liscence.png"/>
 </node>

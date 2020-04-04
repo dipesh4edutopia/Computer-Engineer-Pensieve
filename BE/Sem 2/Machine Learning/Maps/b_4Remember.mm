@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <attribute_registry SHOW_ATTRIBUTES="hide"/>
 <node TEXT="MachineLearning" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_191153586" CREATED="1562675315160" MODIFIED="1563517289126" ICON_SIZE="36.0 pt" LINK="../1_Machine%20Learning_MasterLookup.mm"><hook NAME="MapStyle">
-    <properties show_icon_for_attributes="false" fit_to_viewport="false" edgeColorConfiguration="#00ff00ff,#00ff00ff,#00ff00ff,#00ff00ff,#00ff00ff,#00ff00ff,#00ff00ff,#00ff00ff,#00ff00ff,#00ff00ff,#00ff00ff,#00ff00ff"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="false" edgeColorConfiguration="#00ff00ff,#00ff00ff,#00ff00ff,#00ff00ff,#00ff00ff,#00ff00ff,#00ff00ff,#00ff00ff,#00ff00ff,#00ff00ff,#00ff00ff,#00ff00ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
@@ -584,7 +584,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Naive Bayes and Support Vector Machine" POSITION="left" ID="ID_552601273" CREATED="1563517283157" MODIFIED="1563517283157" Folded="true">
+<node TEXT="Naive Bayes and Support Vector Machine" FOLDED="true" POSITION="left" ID="ID_552601273" CREATED="1563517283157" MODIFIED="1563517283157" Folded="true">
 <edge COLOR="#00ff00"/>
 <attribute NAME="Type" VALUE="syllabus_point"/>
 <node TEXT="Naive Bayes" ID="ID_1433028326" CREATED="1563517283157" MODIFIED="1563517283157" Folded="true">
@@ -3866,7 +3866,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Clustering Techniques" FOLDED="true" POSITION="left" ID="ID_567077888" CREATED="1563517283157" MODIFIED="1563517283157" Folded="true">
+<node TEXT="Clustering Techniques" POSITION="left" ID="ID_567077888" CREATED="1563517283157" MODIFIED="1563517283157" Folded="true">
 <edge COLOR="#00ff00"/>
 <attribute NAME="Type" VALUE="syllabus_point"/>
 <node TEXT="Hierarchical Clustering" FOLDED="true" ID="ID_1225903064" CREATED="1563517283157" MODIFIED="1563517283157" Folded="true">
@@ -4031,7 +4031,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Agglomerative Clustering" ID="ID_368844153" CREATED="1563517283157" MODIFIED="1563517283157" Folded="true">
+<node TEXT="Agglomerative Clustering" FOLDED="true" ID="ID_368844153" CREATED="1563517283157" MODIFIED="1563517283157" Folded="true">
 <attribute NAME="Type" VALUE="syllabus_point"/>
 <node TEXT="Dendograms" FOLDED="true" ID="ID_1458764758" CREATED="1563517283157" MODIFIED="1563517283157" Folded="true">
 <attribute NAME="Type" VALUE="syllabus_point"/>
@@ -4669,7 +4669,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Content based Systems" FOLDED="true" ID="ID_1547698339" CREATED="1563517283157" MODIFIED="1563517283157" Folded="true">
+<node TEXT="Content based Systems" ID="ID_1547698339" CREATED="1563517283157" MODIFIED="1563517283157" Folded="true">
 <attribute NAME="Type" VALUE="syllabus_point"/>
 <node TEXT="Content based Systems Example#$D$#" FOLDED="true" ID="ID_1979543930" CREATED="1557224068569" MODIFIED="1557225557292">
 <icon BUILTIN="stop-sign"/>
@@ -4712,23 +4712,11 @@
 </node>
 <node TEXT="Content based Systems Explain me Like I am five#$D$#" FOLDED="true" ID="ID_1886626527" CREATED="1557224068569" MODIFIED="1557225557292">
 <icon BUILTIN="stop-sign"/>
-<node TEXT="Explain Like Im Five | Dont Panic! - reddit: the front " FOLDED="true" ID="ID_1853011119" CREATED="1557224068569" MODIFIED="1557225551943" LINK="https://www.reddit.com/r/explainlikeimfive/">
+<node TEXT="Explain Like Im Five | Dont Panic! - reddit: the front " ID="ID_1853011119" CREATED="1557224068569" MODIFIED="1557225551943" LINK="https://www.reddit.com/r/explainlikeimfive/">
 <node TEXT="**Explain Like Im Five is the best forum and archive on the internet for layperson-friendly explanations.** Dont Panic!." ID="ID_1416700318" CREATED="1557224068569" MODIFIED="1557224068569"/>
-</node>
-<node TEXT="Chapter 1: What Is an Information System? &#x2013; Information " FOLDED="true" ID="ID_352815290" CREATED="1557224068569" MODIFIED="1557225551943" LINK="https://bus206.pressbooks.com/chapter/chapter-1/">
-<node TEXT="When you tell your friends or your family that you are taking a course in information systems can you explain what it is about?  of facts. For example your street address the city you live in and your phone number are all pieces of data. Like software data is also intangible.  companies who wanted to expand their LAN-based e-mail " ID="ID_1047216224" CREATED="1557224068569" MODIFIED="1557224068569"/>
-</node>
-<node TEXT="Explain like I&#x2019;m 5: Kerberos &#x2013; roguelynn" FOLDED="true" ID="ID_776081839" CREATED="1557224068569" MODIFIED="1557225551943" LINK="https://www.roguelynn.com/words/explain-like-im-5-kerberos/">
-<node TEXT="Explain like I&#x2019;m 5 years old: Kerberos &#x2013; what is Kerberos and why should I care? While this topic probably can not be explained to a 5 year-old and be understood this is my attempt at defragmenting documentation with some visual aids and digestible language. In a nutshell Basically Kerberos comes down to just this: a protocol for authentication uses tickets to authenticate avoids " ID="ID_780152923" CREATED="1557224068569" MODIFIED="1557224068569"/>
-</node>
-<node TEXT="What are some practical examples of real-time systems and " FOLDED="true" ID="ID_854834583" CREATED="1557224068569" MODIFIED="1557225551943" LINK="https://www.researchgate.net/post/What_are_some_practical_examples_of_real-time_systems_and_also_some_resources_that_study_the_control_of_real-time_systems">
-<node TEXT="What are some practical examples of real-time systems and also some resources that study the control of real-time systems?  Traffic control systems or Process control based applications in " ID="ID_1985635020" CREATED="1557224068569" MODIFIED="1557224068569"/>
 </node>
 <node TEXT="What&#x2019;s the Difference Between a System and a Process?" FOLDED="true" ID="ID_689855593" CREATED="1557224068569" MODIFIED="1557225551943" LINK="https://www.productiveflourishing.com/whats-the-difference-between-a-system-and-a-process/">
 <node TEXT="&#x201c;What&#x2019;s the difference between a system and a process?&#x201d; A process is a conceptual sequence of events that enables a people in a business to do what they do. Most of the time you&#x2019;re not aware they&#x2019;re there until someone like me comes and starts making them obvious. For example the way a support request gets handled is a process." ID="ID_1370309295" CREATED="1557224068569" MODIFIED="1557224068569"/>
-</node>
-<node TEXT="Can someone explain to me what what it will be like to be " FOLDED="true" ID="ID_1843116477" CREATED="1557224068569" MODIFIED="1557225551943" LINK="https://answers.yahoo.com/question/index?qid=20110717171708AAdVwk8">
-<node TEXT="I will be a college Junior this fall  I am going to school to be a social worker. Thing is Im not exactly sure what it is i will do. I mean i know I will be helping people but I am not sure as to how. So far all my classes have taught me is about the different people we will help the different fields in social work i can explore but no class has yet explained to me HOW i will be helping " ID="ID_1417516993" CREATED="1557224068569" MODIFIED="1557224068569"/>
 </node>
 <node TEXT="Operating System (OS) Definition  Examples" FOLDED="true" ID="ID_1432946114" CREATED="1557224068569" MODIFIED="1557225551943" LINK="https://www.lifewire.com/operating-systems-2625912">
 <node TEXT="An operating system is a powerful and usually large program that controls and manages the hardware and other software on a computer. All computers and computer-like devices require operating systems including your laptop tablet  desktop smartphone smartwatch and router ." ID="ID_583706047" CREATED="1557224068569" MODIFIED="1557224068569"/>
@@ -4862,7 +4850,7 @@
 <node TEXT="Chapter 02 - Collaborative recommendation" FOLDED="true" ID="ID_731940112" CREATED="1557224068569" MODIFIED="1557225551943" LINK="https://www.math.uci.edu/icamp/courses/math77b/lecture_12w/pdfs/Chapter%2002%20-%20Collaborative%20recommendation.pdf">
 <node TEXT="User&#x2010;based nearest&#x2010;neighbor collaborative filtering (2) Example &#x2013;A database of ratings of the current user Alice and some other users is given:  &#x2013; item&#x2010;based CF is an example for model&#x2010;based approaches-14-" ID="ID_1544122154" CREATED="1557224068569" MODIFIED="1557224068569"/>
 </node>
-<node TEXT="Lecture 43 &#x2014; Collaborative Filtering | Stanford University " FOLDED="true" ID="ID_1693026835" CREATED="1557224068569" MODIFIED="1557225551943" LINK="https://www.youtube.com/watch?v=h9gpufJFF-0">
+<node TEXT="Lecture 43 &#x2014; Collaborative Filtering | Stanford University " ID="ID_1693026835" CREATED="1557224068569" MODIFIED="1557225551943" LINK="https://www.youtube.com/watch?v=h9gpufJFF-0">
 <node TEXT="6 Simple Photography Hacks To Get You Off The AUTO Mode Forever - Learn Digital Photography #1 - Duration: 19:21. Photography Pro Recommended for you" ID="ID_1796671994" CREATED="1557224068569" MODIFIED="1557224068569"/>
 </node>
 <node TEXT="COLLABORATIVE FILTERING ALGORITHMS WITH VARIOUS SIMILARITY " FOLDED="true" ID="ID_676552391" CREATED="1557224068569" MODIFIED="1557225551943" LINK="http://aircconline.com/ijcsea/V6N3/6316ijcsea01.pdf">
@@ -5000,7 +4988,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Fundamentals of Deep Networks" ID="ID_314294957" CREATED="1563517283157" MODIFIED="1563517283157" Folded="true">
+<node TEXT="Fundamentals of Deep Networks" FOLDED="true" ID="ID_314294957" CREATED="1563517283157" MODIFIED="1563517283157" Folded="true">
 <attribute NAME="Type" VALUE="syllabus_point"/>
 <node TEXT="Defining Deep learning" ID="ID_1563719221" CREATED="1563517283157" MODIFIED="1563517283157" Folded="true">
 <attribute NAME="Type" VALUE="syllabus_point"/>
@@ -5249,6 +5237,7 @@
 <attribute NAME="Type" VALUE="syllabus_point"/>
 </node>
 </node>
+<node TEXT="book1-page26.bat" ID="ID_1022774849" CREATED="1585916259105" MODIFIED="1585916259108" LINK="file:/C:/Users/pc/PycharmProjects/Edubuntu/Template%20Generator/Curate%20For%20Final/Computer-Engineer-Pensieve/BE/Sem%202/Machine%20Learning/Indexes/book1-page26.bat"/>
 </node>
 </node>
 </map>

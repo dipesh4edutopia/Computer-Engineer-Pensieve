@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <attribute_registry SHOW_ATTRIBUTES="hide"/>
 <node TEXT="MachineLearning" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_191153586" CREATED="1562675315160" MODIFIED="1563517413228" ICON_SIZE="36.0 pt" LINK="../1_Machine%20Learning_MasterLookup.mm"><hook NAME="MapStyle">
-    <properties show_icon_for_attributes="false" fit_to_viewport="false" edgeColorConfiguration="#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="false" edgeColorConfiguration="#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
@@ -771,7 +771,7 @@
 </node>
 <node TEXT="Sparse PCA" FOLDED="true" ID="ID_198096891" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
 <attribute NAME="Type" VALUE="syllabus_point"/>
-<node TEXT="Sparse PCA#$D$#" ID="ID_1337827623" CREATED="1557224068599" MODIFIED="1557225483435">
+<node TEXT="Sparse PCA#$D$#" FOLDED="true" ID="ID_1337827623" CREATED="1557224068599" MODIFIED="1557225483435">
 <icon BUILTIN="stop-sign"/>
 <node TEXT="Sparse Principal Component Analysis" ID="ID_186701612" CREATED="1557224068599" MODIFIED="1557225479630" LINK="https://web.stanford.edu/~hastie/Papers/spc_jcgs.pdf"/>
 <node TEXT="Sparse PCA - Wikipedia" ID="ID_141282387" CREATED="1557224068599" MODIFIED="1557225479630" LINK="https://en.wikipedia.org/wiki/Sparse_PCA"/>
@@ -1508,7 +1508,7 @@
 </node>
 <node TEXT="Video" ID="ID_503191314" CREATED="1564730356847" MODIFIED="1564730358954">
 <node TEXT="Conditional probability with Bayes Theorem (video) | Khan Academy" ID="ID_637566461" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://www.khanacademy.org/math/ap-statistics/probability-ap/stats-conditional-probability/v/bayes-theorem-visualized"/>
-<node TEXT="Bayes Theorem | Crash Course" ID="ID_129684281" CREATED="1564730419951" MODIFIED="1564730440590" LINK="https://www.youtube.com/watch?v=9TDjifpGj-k"/>
+<node TEXT="Bayes Theorem | Crash Course" ID="ID_129684281" CREATED="1564730419951" MODIFIED="1585914000375" LINK="https://www.youtube.com/watch?v=9TDjifpGj-k&amp;t=3m30s"/>
 </node>
 </node>
 <node TEXT="Naive Bayes Classifiers" FOLDED="true" ID="ID_758956338" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
@@ -1764,7 +1764,7 @@
 <attribute NAME="Type" VALUE="syllabus_point"/>
 </node>
 </node>
-<node TEXT="Support Vector Machine" FOLDED="true" ID="ID_1490097736" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
+<node TEXT="Support Vector Machine" ID="ID_1490097736" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
 <attribute NAME="Type" VALUE="syllabus_point"/>
 <node TEXT="Linear Support Vector Machines" FOLDED="true" ID="ID_100618802" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
 <attribute NAME="Type" VALUE="syllabus_point"/>
@@ -2930,7 +2930,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Clustering Techniques" FOLDED="true" POSITION="left" ID="ID_250522630" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
+<node TEXT="Clustering Techniques" POSITION="left" ID="ID_250522630" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
 <edge COLOR="#00cc33"/>
 <attribute NAME="Type" VALUE="syllabus_point"/>
 <node TEXT="Hierarchical Clustering" ID="ID_429291585" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
