@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <attribute_registry SHOW_ATTRIBUTES="hide"/>
 <node TEXT="MachineLearning" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_191153586" CREATED="1562675315160" MODIFIED="1563517257941" ICON_SIZE="36.0 pt" LINK="../1_Machine%20Learning_MasterLookup.mm"><hook NAME="MapStyle">
-    <properties show_icon_for_attributes="false" fit_to_viewport="false" edgeColorConfiguration="#6BF67Bff,#6BF67Bff,#6BF67Bff,#6BF67Bff,#6BF67Bff,#6BF67Bff,#6BF67Bff,#6BF67Bff,#6BF67Bff,#6BF67Bff,#6BF67Bff,#6BF67Bff"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="false" edgeColorConfiguration="#6BF67Bff,#6BF67Bff,#6BF67Bff,#6BF67Bff,#6BF67Bff,#6BF67Bff,#6BF67Bff,#6BF67Bff,#6BF67Bff,#6BF67Bff,#6BF67Bff,#6BF67Bff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
@@ -2636,7 +2636,8 @@
 <attribute NAME="Type" VALUE="syllabus_point"/>
 <node TEXT="Bayes Theorem" ID="ID_926032669" CREATED="1563516843188" MODIFIED="1564039322166" Folded="true">
 <attribute NAME="Type" VALUE="syllabus_point"/>
-<node TEXT="Bayes Interactive Visualization" ID="ID_440479728" CREATED="1549267191538" MODIFIED="1566452261846" LINK="http://setosa.io/conditional/"/>
+<node TEXT="Bayes Interactive Visualization" ID="ID_440479728" CREATED="1549267191538" MODIFIED="1586349586442" LINK="http://setosa.io/conditional/"/>
+<node TEXT="3Blue 1Brown Video" ID="ID_1892011831" CREATED="1586349564466" MODIFIED="1586349578885" LINK="https://www.youtube.com/watch?v=HZGCoVF3YvM"/>
 </node>
 <node TEXT="Naive Bayes Classifiers" ID="ID_477466320" CREATED="1563516843188" MODIFIED="1563516843188" Folded="true">
 <attribute NAME="Type" VALUE="syllabus_point"/>
@@ -2644,31 +2645,47 @@
 <node TEXT="Naive Bayes Classifier From Scratch in Python" FOLDED="true" ID="ID_855040605" CREATED="1557224068628" MODIFIED="1557224903578" LINK="https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/">
 <node TEXT="Dec 8 2014  Tie it Together: Use all of the code elements to present a complete and standalone implementation of the Naive Bayes algorithm." ID="ID_832731160" CREATED="1557224068628" MODIFIED="1557224068628"/>
 </node>
-<node TEXT="Naive Bayes Classification using Scikit-learn (article) - DataCamp" ID="ID_699721548" CREATED="1557224068628" MODIFIED="1557224903578" LINK="https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn">
+<node TEXT="Naive Bayes Classification using Scikit-learn (article) - DataCamp" FOLDED="true" ID="ID_699721548" CREATED="1557224068628" MODIFIED="1557224903578" LINK="https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn">
 <node TEXT="Dec 4 2018  Learn how to build and evaluate a Naive Bayes Classifier using Pythons  Naive Bayes assumption issues implementation advantages and&#xa0;" ID="ID_523201214" CREATED="1557224068628" MODIFIED="1557224068628"/>
 </node>
-<node TEXT="6 Easy Steps to Learn Naive Bayes Algorithm (with code in Python)" ID="ID_467064528" CREATED="1557224068628" MODIFIED="1557224903577" LINK="https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/">
+<node TEXT="6 Easy Steps to Learn Naive Bayes Algorithm (with code in Python)" FOLDED="true" ID="ID_467064528" CREATED="1557224068628" MODIFIED="1557224903577" LINK="https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/">
 <node TEXT="Sep 11 2017  This article describes the basic principle behind Naive Bayes algorithm its application pros  cons along with its implementation in Python&#xa0;" ID="ID_1358558030" CREATED="1557224068628" MODIFIED="1557224068628"/>
 </node>
 </node>
 </node>
-<node TEXT="Naive Bayes in Scikit-learn" ID="ID_501751091" CREATED="1563516843188" MODIFIED="1563516843188" Folded="true">
+<node TEXT="Naive Bayes in Scikit-learn" FOLDED="true" ID="ID_501751091" CREATED="1563516843188" MODIFIED="1563516843188" Folded="true">
 <attribute NAME="Type" VALUE="syllabus_point"/>
+<node TEXT="1.9. Naive Bayes &#x2014; scikit-learn 0.20.3 documentation" FOLDED="true" ID="ID_205642850" CREATED="1557224068603" MODIFIED="1557225479661" LINK="http://scikit-learn.org/stable/modules/naive_bayes.html">
+<node TEXT="Naive Bayes methods are a set of supervised learning algorithms based on applying Bayes theorem with the &#x201c;naive&#x201d; assumption of conditional independence&#xa0;" ID="ID_306156652" CREATED="1557224068603" MODIFIED="1557224068603"/>
 </node>
-<node TEXT="Types" FOLDED="true" ID="ID_1206715993" CREATED="1563516843188" MODIFIED="1563516843188" Folded="true">
-<attribute NAME="Type" VALUE="syllabus_point"/>
-<node TEXT="Bernoulli Naive Bayes" ID="ID_1329130759" CREATED="1563516843188" MODIFIED="1563516843188" Folded="true">
-<attribute NAME="Type" VALUE="syllabus_point"/>
+<node TEXT="Naive Bayes Classification with Sklearn &#x2013; Sicaras blog" FOLDED="true" ID="ID_451459408" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://blog.sicara.com/naive-bayes-classifier-sklearn-python-example-tips-42d100429e44">
+<node TEXT="Feb 28 2018  This tutorial details Naive Bayes classifier algorithm its principle pros  cons and provide an example using the Sklearn python Library." ID="ID_1903050740" CREATED="1557224068603" MODIFIED="1557224068603"/>
 </node>
-<node TEXT="Multinomial Naive Bayes" ID="ID_671612021" CREATED="1563516843188" MODIFIED="1563516843188" Folded="true">
-<attribute NAME="Type" VALUE="syllabus_point"/>
-</node>
-<node TEXT="Gaussian Naive Bayes" ID="ID_1099037556" CREATED="1563516843188" MODIFIED="1563516843188" Folded="true">
-<attribute NAME="Type" VALUE="syllabus_point"/>
+<node TEXT="Naive Bayes Classification using Scikit-learn (article) - DataCamp" FOLDED="true" ID="ID_231750482" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn">
+<node TEXT="Dec 4 2018  Learn how to build and evaluate a Naive Bayes Classifier using Pythons Scikit-learn package." ID="ID_1661848895" CREATED="1557224068603" MODIFIED="1557224068603"/>
 </node>
 </node>
-<node TEXT="Interactive Visualization " ID="ID_1524357791" CREATED="1563516843188" MODIFIED="1563516843188" Folded="true">
+<node TEXT="Types" ID="ID_1206715993" CREATED="1563516843188" MODIFIED="1563516843188" Folded="true">
 <attribute NAME="Type" VALUE="syllabus_point"/>
+<node TEXT="Bernoulli Naive Bayes" FOLDED="true" ID="ID_1329130759" CREATED="1563516843188" MODIFIED="1563516843188" Folded="true">
+<attribute NAME="Type" VALUE="syllabus_point"/>
+<node TEXT="code" ID="ID_1188834147" CREATED="1586351819546" MODIFIED="1586351831428" LINK="https://github.com/hprovenza/naive-bayes-classifier"/>
+</node>
+<node TEXT="Multinomial Naive Bayes" FOLDED="true" ID="ID_671612021" CREATED="1563516843188" MODIFIED="1563516843188" Folded="true">
+<attribute NAME="Type" VALUE="syllabus_point"/>
+<node TEXT="Applying Multinomial Naive Bayes to NLP Problems - GeeksforGeeks" FOLDED="true" ID="ID_340068158" CREATED="1557224068603" MODIFIED="1557225479677" LINK="https://www.geeksforgeeks.org/applying-multinomial-naive-bayes-to-nlp-problems/">
+<node TEXT="Naive Bayes Classifier Algorithm is a family of probabilistic algorithms based on applying Bayes theorem with the &#x201c;naive&#x201d; assumption of conditional&#xa0;" ID="ID_1487348245" CREATED="1557224068603" MODIFIED="1557224068603"/>
+</node>
+<node TEXT="Applying Multinomial Naive Bayes to NLP Problems: A Practical " FOLDED="true" ID="ID_497345406" CREATED="1557224068603" MODIFIED="1557225479677" LINK="https://medium.com/syncedreview/applying-multinomial-naive-bayes-to-nlp-problems-a-practical-explanation-4f5271768ebf">
+<node TEXT="Jul 17 2017  1.Introduction Naive Bayes is a family of algorithms based on applying Bayes theorem with a strong(naive) assumption that every feature is&#xa0;" ID="ID_441135984" CREATED="1557224068603" MODIFIED="1557224068603"/>
+</node>
+</node>
+<node TEXT="Gaussian Naive Bayes" FOLDED="true" ID="ID_1099037556" CREATED="1563516843188" MODIFIED="1563516843188" Folded="true">
+<attribute NAME="Type" VALUE="syllabus_point"/>
+<node TEXT="Implementation of Gaussian Naive Bayes in Python from scratch" FOLDED="true" ID="ID_972609173" CREATED="1557224068603" MODIFIED="1557225479677" LINK="https://hackernoon.com/implementation-of-gaussian-naive-bayes-in-python-from-scratch-c4ea64e3944d">
+<node TEXT="Jan 23 2019  Gaussian Naive Bayes is an algorithm having a Probabilistic Approach. It involves prior and posterior probability calculation of the classes in&#xa0;" ID="ID_1848933879" CREATED="1557224068603" MODIFIED="1557224068603"/>
+</node>
+</node>
 </node>
 </node>
 <node TEXT="Support Vector Machine" ID="ID_1560469495" CREATED="1563516843188" MODIFIED="1565345376218" Folded="true">

@@ -1,10 +1,10 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <attribute_registry SHOW_ATTRIBUTES="hide"/>
-<node TEXT="Artificial Intelligence" FOLDED="false" ID="ID_825489829" CREATED="1549259487616" MODIFIED="1562919636892" STYLE="oval">
+<node TEXT="Artificial Intelligence" FOLDED="false" ID="ID_825489829" CREATED="1549259487616" MODIFIED="1586353083746" LINK="../../../Computer%20Engineering%20pensieve.mm" STYLE="oval">
 <font NAME="Dialog" SIZE="18"/>
 <hook NAME="MapStyle">
-    <properties SHOW_NOTE_ICONS="true" FIT_TO_VIEWPORT="false" show_icon_for_attributes="false" fit_to_viewport="false" show_note_icons="true" EDGECOLORCONFIGURATION="#F06C27ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" edgeColorConfiguration="#F06C27ff,#F06C27ff,#F06C27ff,#F06C27ff,#F06C27ff,#F06C27ff,#F06C27ff,#F06C27ff,#F06C27ff,#F06C27ff,#F06C27ff,#F06C27ff"/>
+    <properties FIT_TO_VIEWPORT="false" SHOW_NOTE_ICONS="true" fit_to_viewport="false" show_icon_for_attributes="false" show_note_icons="true" EDGECOLORCONFIGURATION="#F06C27ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" edgeColorConfiguration="#F06C27ff,#F06C27ff,#F06C27ff,#F06C27ff,#F06C27ff,#F06C27ff,#F06C27ff,#F06C27ff,#F06C27ff,#F06C27ff,#F06C27ff,#F06C27ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">

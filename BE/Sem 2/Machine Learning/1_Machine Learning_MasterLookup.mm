@@ -1,10 +1,10 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <attribute_registry SHOW_ATTRIBUTES="hide"/>
-<node TEXT="Machine Learning" FOLDED="false" ID="ID_825489829" CREATED="1549259487616" MODIFIED="1563517277791" STYLE="oval">
+<node TEXT="Machine Learning" FOLDED="false" ID="ID_825489829" CREATED="1549259487616" MODIFIED="1586360491301" LINK="../../../Computer%20Engineering%20pensieve.mm" STYLE="oval">
 <font NAME="Segoe Print" SIZE="18"/>
 <hook NAME="MapStyle">
-    <properties FIT_TO_VIEWPORT="false" SHOW_NOTE_ICONS="true" fit_to_viewport="false" show_icon_for_attributes="false" show_note_icons="true" EDGECOLORCONFIGURATION="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" edgeColorConfiguration="#808080ff,#808080ff,#808080ff,#808080ff,#808080ff,#808080ff,#808080ff,#808080ff,#808080ff,#808080ff,#808080ff,#808080ff"/>
+    <properties SHOW_NOTE_ICONS="true" FIT_TO_VIEWPORT="false" show_icon_for_attributes="false" fit_to_viewport="false" show_note_icons="true" EDGECOLORCONFIGURATION="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" edgeColorConfiguration="#808080ff,#808080ff,#808080ff,#808080ff,#808080ff,#808080ff,#808080ff,#808080ff,#808080ff,#808080ff,#808080ff,#808080ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
@@ -221,11 +221,11 @@
 <node TEXT="Mtech Thesis" ID="ID_757088941" CREATED="1549367595624" MODIFIED="1549367600603">
 <attribute NAME="Type" VALUE="syllabus_point"/>
 </node>
-<node TEXT="Important Journals" FOLDED="true" ID="ID_1581299213" CREATED="1549358977818" MODIFIED="1549358983514">
+<node TEXT="Important Journals" FOLDED="true" ID="ID_1581299213" CREATED="1549358977818" MODIFIED="1586348446266">
 <attribute NAME="Type" VALUE="syllabus_point"/>
 <node TEXT="Top Journals for Machine Learning  Arti. Intelligence " ID="ID_1217719223" CREATED="1557224068547" MODIFIED="1557224306235" LINK="http://www.guide2research.com/journals/machine-learning"/>
 <node TEXT="Apple Machine Learning Journal" ID="ID_711495703" CREATED="1557224068547" MODIFIED="1557224306235" LINK="https://machinelearning.apple.com/"/>
-<node TEXT="What are the best conferences and journals about machine " ID="ID_843808063" CREATED="1557224068547" MODIFIED="1557224306234" LINK="https://www.quora.com/What-are-the-best-conferences-and-journals-about-machine-learning"/>
+<node TEXT="What are the best conferences and journals about machine " ID="ID_843808063" CREATED="1557224068547" MODIFIED="1586348446266" LINK="https://www.quora.com/What-are-the-best-conferences-and-journals-about-machine-learning"/>
 <node TEXT="Top Journals for Machine Learning  Arti. Intelligence " ID="ID_1843559258" CREATED="1557224068552" MODIFIED="1557224306293" LINK="http://www.guide2research.com/journals/machine-learning"/>
 <node TEXT="Journal of Machine Learning Research" ID="ID_373572455" CREATED="1557224068552" MODIFIED="1557224306293" LINK="http://jmlr.csail.mit.edu/"/>
 </node>
@@ -294,7 +294,7 @@
 <node TEXT="What were the most significant machine learning/AI advances in 2018? originally appeared on Quora: the place to gain and share knowledge empowering people to learn from others and better " ID="ID_1325347339" CREATED="1557224068551" MODIFIED="1557224068551"/>
 </node>
 </node>
-<node TEXT="Topics" ID="ID_418711153" CREATED="1549361891209" MODIFIED="1549361895072">
+<node TEXT="Topics" FOLDED="true" ID="ID_418711153" CREATED="1549361891209" MODIFIED="1549361895072">
 <attribute NAME="Type" VALUE="syllabus_point"/>
 <node TEXT="Sub Topics" ID="ID_1422668863" CREATED="1549365931051" MODIFIED="1549365936959">
 <attribute NAME="Type" VALUE="syllabus_point"/>

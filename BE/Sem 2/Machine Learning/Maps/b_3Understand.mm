@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <attribute_registry SHOW_ATTRIBUTES="hide"/>
 <node TEXT="MachineLearning" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_191153586" CREATED="1562675315160" MODIFIED="1563517413228" ICON_SIZE="36.0 pt" LINK="../1_Machine%20Learning_MasterLookup.mm"><hook NAME="MapStyle">
-    <properties fit_to_viewport="false" show_icon_for_attributes="false" edgeColorConfiguration="#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff"/>
+    <properties show_icon_for_attributes="false" fit_to_viewport="false" edgeColorConfiguration="#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff,#00cc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
@@ -769,7 +769,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Sparse PCA" FOLDED="true" ID="ID_198096891" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
+<node TEXT="Sparse PCA" ID="ID_198096891" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
 <attribute NAME="Type" VALUE="syllabus_point"/>
 <node TEXT="Sparse PCA#$D$#" FOLDED="true" ID="ID_1337827623" CREATED="1557224068599" MODIFIED="1557225483435">
 <icon BUILTIN="stop-sign"/>
@@ -828,7 +828,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Dictionary Learning" FOLDED="true" ID="ID_618052741" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
+<node TEXT="Dictionary Learning" ID="ID_618052741" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
 <attribute NAME="Type" VALUE="syllabus_point"/>
 <node TEXT="Dictionary Learning#$D$#" FOLDED="true" ID="ID_679004634" CREATED="1557224068599" MODIFIED="1557225483435">
 <icon BUILTIN="stop-sign"/>
@@ -1508,76 +1508,16 @@
 </node>
 <node TEXT="Video" ID="ID_503191314" CREATED="1564730356847" MODIFIED="1564730358954">
 <node TEXT="Conditional probability with Bayes Theorem (video) | Khan Academy" ID="ID_637566461" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://www.khanacademy.org/math/ap-statistics/probability-ap/stats-conditional-probability/v/bayes-theorem-visualized"/>
-<node TEXT="Bayes Theorem | Crash Course" ID="ID_129684281" CREATED="1564730419951" MODIFIED="1585914000375" LINK="https://www.youtube.com/watch?v=9TDjifpGj-k&amp;t=3m30s"/>
+<node TEXT="Bayes Theorem | Crash Course" ID="ID_129684281" CREATED="1564730419951" MODIFIED="1585997978091" LINK="https://www.youtube.com/watch?v=9TDjifpGj-k&amp;t=3m30s"/>
 </node>
 </node>
-<node TEXT="Naive Bayes Classifiers" FOLDED="true" ID="ID_758956338" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
+<node TEXT="Naive Bayes Classifiers" ID="ID_758956338" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
 <attribute NAME="Type" VALUE="syllabus_point"/>
-<node TEXT="Naive Bayes#$D$#" FOLDED="true" ID="ID_1931599025" CREATED="1557224068602" MODIFIED="1557225483437">
-<icon BUILTIN="stop-sign"/>
-<node TEXT="Naive Bayes classifier - Wikipedia" FOLDED="true" ID="ID_1674569310" CREATED="1557224068602" MODIFIED="1557225479661" LINK="https://en.wikipedia.org/wiki/Naive_Bayes_classifier">
-<node TEXT="In machine learning naive Bayes classifiers are a family of simple probabilistic classifiers based on applying Bayes theorem with strong (naive) independence&#xa0;" ID="ID_110903721" CREATED="1557224068602" MODIFIED="1557224068602"/>
-</node>
-<node TEXT="1.9. Naive Bayes &#x2014; scikit-learn 0.20.3 documentation" FOLDED="true" ID="ID_1638932138" CREATED="1557224068602" MODIFIED="1557225479661" LINK="http://scikit-learn.org/stable/modules/naive_bayes.html">
-<node TEXT="Naive Bayes methods are a set of supervised learning algorithms based on applying Bayes theorem with the &#x201c;naive&#x201d; assumption of conditional independence&#xa0;" ID="ID_396755788" CREATED="1557224068602" MODIFIED="1557224068602"/>
-</node>
-<node TEXT="6 Easy Steps to Learn Naive Bayes Algorithm (with code in Python)" FOLDED="true" ID="ID_701140179" CREATED="1557224068602" MODIFIED="1557225479661" LINK="https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/">
-<node TEXT="Sep 11 2017  This article describes the basic principle behind Naive Bayes algorithm its application pros  cons along with its implementation in Python&#xa0;" ID="ID_879232369" CREATED="1557224068602" MODIFIED="1557224068602"/>
-</node>
-<node TEXT="Introduction to Naive Bayes Classification &#x2013; Towards Data Science" FOLDED="true" ID="ID_188782280" CREATED="1557224068602" MODIFIED="1557225479661" LINK="https://towardsdatascience.com/introduction-to-naive-bayes-classification-4cffabb1ae54">
-<node TEXT="May 16 2018  Naive Bayes is a simple yet effective and commonly-used machine learning classifier. It is a probabilistic classifier that makes classifications&#xa0;" ID="ID_1671352786" CREATED="1557224068602" MODIFIED="1557224068602"/>
-</node>
-<node TEXT="Na&#xef;ve Bayes Classifier - Fun and Easy Machine Learning - YouTube" FOLDED="true" ID="ID_1590109918" CREATED="1557224068602" MODIFIED="1557225479661" LINK="https://www.youtube.com/watch?v=CPqOCI0ahss">
-<node TEXT="Aug 26 2017  Naive Bayes Classifier- Fun and Easy Machine Learning &#x25bb;FREE YOLO GIFT - http://augmentedstartups.info/yolofreegiftsp &#x25bb;KERAS COURSE&#xa0;" ID="ID_153758326" CREATED="1557224068602" MODIFIED="1557224068602"/>
-</node>
-<node TEXT="Naive Bayes Classifier" FOLDED="true" ID="ID_1591805741" CREATED="1557224068602" MODIFIED="1557225479661" LINK="http://www.statsoft.com/textbook/naive-bayes-classifier">
-<node TEXT="The Naive Bayes Classifier technique is based on the so-called Bayesian theorem and is particularly suited when the dimensionality of the inputs is high." ID="ID_1210890250" CREATED="1557224068602" MODIFIED="1557224068602"/>
-</node>
-<node TEXT="Naive Bayes for Machine Learning" FOLDED="true" ID="ID_1398849207" CREATED="1557224068602" MODIFIED="1557225479661" LINK="https://machinelearningmastery.com/naive-bayes-for-machine-learning/">
-<node TEXT="Apr 11 2016  Naive Bayes is a simple but surprisingly powerful algorithm for predictive modeling. In this post you will discover the Naive Bayes algorithm for&#xa0;" ID="ID_1259896205" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="Naive Bayes - Georgia Tech - Machine Learning - YouTube" FOLDED="true" ID="ID_397296104" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://www.youtube.com/watch?v=M59h7CFUwPU">
-<node TEXT="Feb 23 2015  Watch on Udacity: https://www.udacity.com/course/viewer#!/c-ud262/l-478818537/m-482228628 Check out the full Advanced Operating&#xa0;" ID="ID_469642790" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="Naive Bayesian" FOLDED="true" ID="ID_1113566084" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://www.saedsayad.com/naive_bayesian.htm">
-<node TEXT="The Naive Bayesian classifier is based on Bayes theorem with the independence assumptions between predictors. A Naive Bayesian model is easy to build&#xa0;" ID="ID_1426346198" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="Naive Bayes Classifiers - GeeksforGeeks" FOLDED="true" ID="ID_1314860866" CREATED="1557224068602" MODIFIED="1557225479661" LINK="https://www.geeksforgeeks.org/naive-bayes-classifiers/">
-<node TEXT="Naive Bayes classifiers are a collection of classification algorithms based on Bayes Theorem. It is not a single algorithm but a family of algorithms where all of&#xa0;" ID="ID_244597750" CREATED="1557224068602" MODIFIED="1557224068602"/>
-</node>
-</node>
-<node TEXT="Naive Bayes Classifiers#$D$#" FOLDED="true" ID="ID_743377860" CREATED="1557224068603" MODIFIED="1557225483437">
-<icon BUILTIN="stop-sign"/>
-<node TEXT="Naive Bayes classifier - Wikipedia" FOLDED="true" ID="ID_629645211" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://en.wikipedia.org/wiki/Naive_Bayes_classifier">
-<node TEXT="In machine learning naive Bayes classifiers are a family of simple probabilistic classifiers based on applying Bayes theorem with strong (naive) independence&#xa0;" ID="ID_1319240778" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="Naive Bayes Classifiers - GeeksforGeeks" FOLDED="true" ID="ID_1966935517" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://www.geeksforgeeks.org/naive-bayes-classifiers/">
-<node TEXT="Naive Bayes classifiers are a collection of classification algorithms based on Bayes Theorem. It is not a single algorithm but a family of algorithms where all of&#xa0;" ID="ID_1917482097" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="Naive Bayes Classifier" FOLDED="true" ID="ID_602123734" CREATED="1557224068603" MODIFIED="1557225479661" LINK="http://www.statsoft.com/textbook/naive-bayes-classifier">
-<node TEXT="The Naive Bayes Classifier technique is based on the so-called Bayesian theorem and is particularly suited when the dimensionality of the inputs is high." ID="ID_650465761" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
 <node TEXT="Na&#xef;ve Bayes Classifier - Fun and Easy Machine Learning - YouTube" FOLDED="true" ID="ID_1320267752" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://www.youtube.com/watch?v=CPqOCI0ahss">
 <node TEXT="Aug 26 2017  Naive Bayes Classifier- Fun and Easy Machine Learning &#x25bb;FREE YOLO GIFT - http://augmentedstartups.info/yolofreegiftsp &#x25bb;KERAS COURSE&#xa0;" ID="ID_1837949378" CREATED="1557224068603" MODIFIED="1557224068603"/>
 </node>
-<node TEXT="6 Easy Steps to Learn Naive Bayes Algorithm (with code in Python)" FOLDED="true" ID="ID_455958021" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/">
-<node TEXT="Sep 11 2017  In simple terms a Naive Bayes classifier assumes that the presence of a particular feature in a class is unrelated to the presence of any other&#xa0;" ID="ID_1036897213" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="Introduction to Naive Bayes Classification &#x2013; Towards Data Science" FOLDED="true" ID="ID_805188346" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://towardsdatascience.com/introduction-to-naive-bayes-classification-4cffabb1ae54">
-<node TEXT="May 16 2018  Naive Bayes is a simple yet effective and commonly-used machine learning classifier. It is a probabilistic classifier that makes classifications&#xa0;" ID="ID_1121758043" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="1.9. Naive Bayes &#x2014; scikit-learn 0.20.3 documentation" FOLDED="true" ID="ID_1082350223" CREATED="1557224068603" MODIFIED="1557225479661" LINK="http://scikit-learn.org/stable/modules/naive_bayes.html">
-<node TEXT="Naive Bayes methods are a set of supervised learning algorithms based on . The different naive Bayes classifiers differ mainly by the assumptions they make&#xa0;" ID="ID_1397728150" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="Naive Bayes Classifier &#x2013; Towards Data Science" FOLDED="true" ID="ID_1954282568" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c">
-<node TEXT="May 5 2018  A classifier is a machine learning model that is used to discriminate different objects based on certain features. A Naive Bayes classifier is a&#xa0;" ID="ID_527881041" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="Naive Bayes for Machine Learning" FOLDED="true" ID="ID_1098013204" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://machinelearningmastery.com/naive-bayes-for-machine-learning/">
-<node TEXT="Apr 11 2016  Naive Bayes Classifier. Naive Bayes is a classification algorithm for binary (two-class) and multi-class classification problems. The technique is&#xa0;" ID="ID_396818099" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="Tutorial: Building a Text Classification System &#x2014; TextBlob 0.15.2 " FOLDED="true" ID="ID_45956777" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://textblob.readthedocs.io/en/dev/classifiers.html">
-<node TEXT="The textblob.classifiers module makes it simple to create custom classifiers.  Now well create a Naive Bayes classifier passing the training data into the&#xa0;" ID="ID_1555370547" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
+<node TEXT="Naive Bayes Classifiers - GeeksforGeeks" FOLDED="true" ID="ID_1966935517" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://www.geeksforgeeks.org/naive-bayes-classifiers/">
+<node TEXT="Naive Bayes classifiers are a collection of classification algorithms based on Bayes Theorem. It is not a single algorithm but a family of algorithms where all of&#xa0;" ID="ID_1917482097" CREATED="1557224068603" MODIFIED="1557224068603"/>
 </node>
 <node TEXT="Naive User based systems#$D$#" FOLDED="true" ID="ID_1349761713" CREATED="1557224068611" MODIFIED="1557225483445">
 <icon BUILTIN="stop-sign"/>
@@ -1593,7 +1533,7 @@
 <node TEXT="Authenticating Users of Recommender Systems Using Naive Bayes " FOLDED="true" ID="ID_1998066518" CREATED="1557224068611" MODIFIED="1557225479739" LINK="https://link.springer.com/chapter/10.1007/978-3-642-41230-1_17">
 <node TEXT="Knowledge Based Authentication (KBA) verifies the credibility of claimed identities by matching various user-related data. Popular recommender systems hold&#xa0;" ID="ID_1582576772" CREATED="1557224068611" MODIFIED="1557224068611"/>
 </node>
-<node TEXT="new recommender system using naive bayes for e- learning" FOLDED="true" ID="ID_1154087706" CREATED="1557224068611" MODIFIED="1557225479739" LINK="https://www.isres.org/books/chapters/RHES2016-8_10-09-2017.pdf">
+<node TEXT="new recommender system using naive bayes for e- learning" ID="ID_1154087706" CREATED="1557224068611" MODIFIED="1557225479739" LINK="https://www.isres.org/books/chapters/RHES2016-8_10-09-2017.pdf">
 <node TEXT="Computer-based recommender systems are the most appropriate methods in  and eventually the system recommends to user with Na&#xef;ve Bayesian Classifier." ID="ID_1775923863" CREATED="1557224068611" MODIFIED="1557224068611"/>
 </node>
 <node TEXT="User Preference Awareness in City Traveler Helper System Based " FOLDED="true" ID="ID_222604314" CREATED="1557224068611" MODIFIED="1557225479739" LINK="https://ieeexplore.ieee.org/document/4609586/">
@@ -1613,119 +1553,50 @@
 </node>
 </node>
 </node>
-<node TEXT="Naive Bayes in Scikit-learn" FOLDED="true" ID="ID_151252490" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
+<node TEXT="Naive Bayes in Scikit-learn" ID="ID_151252490" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
 <attribute NAME="Type" VALUE="syllabus_point"/>
-<node TEXT="Naive Bayes in Scikit-learn#$D$#" FOLDED="true" ID="ID_948548147" CREATED="1557224068603" MODIFIED="1557225483438">
-<icon BUILTIN="stop-sign"/>
 <node TEXT="1.9. Naive Bayes &#x2014; scikit-learn 0.20.3 documentation" FOLDED="true" ID="ID_205642850" CREATED="1557224068603" MODIFIED="1557225479661" LINK="http://scikit-learn.org/stable/modules/naive_bayes.html">
 <node TEXT="Naive Bayes methods are a set of supervised learning algorithms based on applying Bayes theorem with the &#x201c;naive&#x201d; assumption of conditional independence&#xa0;" ID="ID_306156652" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="Naive Bayes Classification using Scikit-learn (article) - DataCamp" FOLDED="true" ID="ID_231750482" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn">
-<node TEXT="Dec 4 2018  Learn how to build and evaluate a Naive Bayes Classifier using Pythons Scikit-learn package." ID="ID_1661848895" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="sklearn.naive_bayes.GaussianNB &#x2014; scikit-learn 0.20.3 documentation" FOLDED="true" ID="ID_574683196" CREATED="1557224068603" MODIFIED="1557225479661" LINK="http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html">
-<node TEXT="Examples using sklearn.naive_bayes.  Gaussian Naive Bayes (GaussianNB)  fit (X y[ sample_weight]) Fit Gaussian Naive Bayes according to X y." ID="ID_1915620030" CREATED="1557224068603" MODIFIED="1557224068603"/>
 </node>
 <node TEXT="Naive Bayes Classification with Sklearn &#x2013; Sicaras blog" FOLDED="true" ID="ID_451459408" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://blog.sicara.com/naive-bayes-classifier-sklearn-python-example-tips-42d100429e44">
 <node TEXT="Feb 28 2018  This tutorial details Naive Bayes classifier algorithm its principle pros  cons and provide an example using the Sklearn python Library." ID="ID_1903050740" CREATED="1557224068603" MODIFIED="1557224068603"/>
 </node>
-<node TEXT="sklearn.naive_bayes.MultinomialNB &#x2014; scikit-learn 0.20.3 " FOLDED="true" ID="ID_893995945" CREATED="1557224068603" MODIFIED="1557225479661" LINK="http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html">
-<node TEXT="Naive Bayes classifier for multinomial models. The multinomial Naive Bayes classifier is suitable for classification with discrete features (e.g. word counts for text&#xa0;" ID="ID_1884507585" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="The Naive Bayes Algorithm in Python with Scikit-Learn" FOLDED="true" ID="ID_1737482649" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://stackabuse.com/the-naive-bayes-algorithm-in-python-with-scikit-learn/">
-<node TEXT="Jul 10 2018  The Naive Bayes Classifier brings the power of this theorem to Machine Learning building a very simple yet powerful classifier. In this article&#xa0;" ID="ID_1212606186" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="sklearn.naive_bayes.BernoulliNB &#x2014; scikit-learn 0.20.3 documentation" FOLDED="true" ID="ID_1421395898" CREATED="1557224068603" MODIFIED="1557225479661" LINK="http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.BernoulliNB.html">
-<node TEXT="Naive Bayes classifier for multivariate Bernoulli models. Like MultinomialNB this classifier is suitable for discrete data. The difference is that while MultinomialNB&#xa0;" ID="ID_516131901" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="scikit-learn/naive_bayes.py at master &#xb7; scikit-learn/scikit-learn &#xb7; GitHub" FOLDED="true" ID="ID_788596366" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://github.com/scikit-learn/scikit-learn/blob/master/sklearn/naive_bayes.py">
-<node TEXT="The :mod:`sklearn.naive_bayes` module implements Naive Bayes algorithms. These. are supervised learning methods based on applying Bayes theorem with&#xa0;" ID="ID_1044791896" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="Implementing 3 Naive Bayes classifiers in scikit-learn | Packt Hub" FOLDED="true" ID="ID_1149404276" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://hub.packtpub.com/implementing-3-naive-bayes-classifiers-in-scikit-learn/">
-<node TEXT="May 7 2018  Scikit-learn provide three naive Bayes classifiers: Bernoulli multinomial and Gaussian. The only difference is about the probability distribution&#xa0;" ID="ID_891960497" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="Machine Learning Algorithm Recipes in scikit-learn" FOLDED="true" ID="ID_1423823238" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://machinelearningmastery.com/get-your-hands-dirty-with-scikit-learn-now/">
-<node TEXT="Jun 20 2014  The scikit-learn Python library is very easy to get up and running.  Naive Bayes uses Bayes Theorem to model the conditional relationship of&#xa0;" ID="ID_1068729464" CREATED="1557224068603" MODIFIED="1557224068603"/>
+<node TEXT="Naive Bayes Classification using Scikit-learn (article) - DataCamp" FOLDED="true" ID="ID_231750482" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn">
+<node TEXT="Dec 4 2018  Learn how to build and evaluate a Naive Bayes Classifier using Pythons Scikit-learn package." ID="ID_1661848895" CREATED="1557224068603" MODIFIED="1557224068603"/>
 </node>
 </node>
-</node>
-<node TEXT="Types" FOLDED="true" ID="ID_1887900412" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
+<node TEXT="Types" ID="ID_1887900412" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
 <attribute NAME="Type" VALUE="syllabus_point"/>
-<node TEXT="Bernoulli Naive Bayes" ID="ID_1178685457" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
+<node TEXT="Bernoulli Naive Bayes" FOLDED="true" ID="ID_1178685457" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
 <attribute NAME="Type" VALUE="syllabus_point"/>
-<node TEXT="Bernoulli Naive Bayes#$D$#" FOLDED="true" ID="ID_700881619" CREATED="1557224068603" MODIFIED="1557225483438">
-<icon BUILTIN="stop-sign"/>
-<node TEXT="sklearn.naive_bayes.BernoulliNB &#x2014; scikit-learn 0.20.3 documentation" FOLDED="true" ID="ID_1109624203" CREATED="1557224068603" MODIFIED="1557225479661" LINK="http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.BernoulliNB.html">
-<node TEXT="Naive Bayes classifier for multivariate Bernoulli models. Like MultinomialNB this classifier is suitable for discrete data. The difference is that while MultinomialNB&#xa0;" ID="ID_297845952" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="Naive Bayes classifier - Wikipedia" FOLDED="true" ID="ID_402590262" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://en.wikipedia.org/wiki/Naive_Bayes_classifier">
-<node TEXT="In the multivariate Bernoulli event model features are  Note that a naive Bayes classifier with a Bernoulli event model is&#xa0;" ID="ID_1128411332" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="The Bernoulli model" FOLDED="true" ID="ID_1599969301" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://nlp.stanford.edu/IR-book/html/htmledition/the-bernoulli-model-1.html">
-<node TEXT="Next: Properties of Naive Bayes Up: Text classification and Naive Previous:  An alternative to the multinomial model is the multivariate Bernoulli model or&#xa0;" ID="ID_1843172952" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="1.9. Naive Bayes &#x2014; scikit-learn 0.20.3 documentation" FOLDED="true" ID="ID_342136839" CREATED="1557224068603" MODIFIED="1557225479661" LINK="http://scikit-learn.org/stable/modules/naive_bayes.html">
-<node TEXT="Bernoulli Naive Bayes; 1.9.5. Out-of-core naive Bayes model fitting  Naive Bayes methods are a set of supervised learning algorithms based on applying&#xa0;" ID="ID_170957012" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="machine learning - When to use Bernoulli Naive Bayes? - Cross " FOLDED="true" ID="ID_224506654" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://stats.stackexchange.com/questions/246101/when-to-use-bernoulli-naive-bayes">
-<node TEXT="Bernoulli Naive Bayes is for binary features only. Similarly multinomial naive Bayes treats features as event probabilities. Your example is&#xa0;" ID="ID_1883786544" CREATED="1557224068603" MODIFIED="1557224068603"/>
+<node TEXT="Difference between Bernoulli and Multinomial Naive Bayes - Data " FOLDED="true" ID="ID_1889882197" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://datascience.stackexchange.com/questions/27624/difference-between-bernoulli-and-multinomial-naive-bayes">
+<node TEXT="Bernoulli models the presence/absence of a feature. Multinomial models the number of counts of a feature. Heres a concise explanation." ID="ID_1782765562" CREATED="1557224068603" MODIFIED="1557224068603"/>
 </node>
 <node TEXT="Bernoulli Naive Bayes Classifier" FOLDED="true" ID="ID_844411536" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://mattshomepage.com/articles/2016/Jun/07/bernoulli_nb/">
 <node TEXT="Jun 7 2016  Covers theory and implementation of a Bernoulli naive Bayes classifier." ID="ID_1451648291" CREATED="1557224068603" MODIFIED="1557224068603"/>
 </node>
-<node TEXT="Naive Bayes Classifier - Multinomial Bernoulli Gaussian Using " FOLDED="true" ID="ID_1858654552" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://www.youtube.com/watch?v=99MN-rl8jGY">
-<node TEXT="Sep 18 2017  In this Python for Data Science tutorial You will learn about Naive Bayes classifier (Multinomial Bernoulli Gaussian) using scikit learn and Urllib&#xa0;" ID="ID_1935516100" CREATED="1557224068603" MODIFIED="1557224068603"/>
+<node TEXT="machine learning - When to use Bernoulli Naive Bayes? - Cross " FOLDED="true" ID="ID_224506654" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://stats.stackexchange.com/questions/246101/when-to-use-bernoulli-naive-bayes">
+<node TEXT="Bernoulli Naive Bayes is for binary features only. Similarly multinomial naive Bayes treats features as event probabilities. Your example is&#xa0;" ID="ID_1883786544" CREATED="1557224068603" MODIFIED="1557224068603"/>
 </node>
-<node TEXT="Na&#xef;ve Bayes" FOLDED="true" ID="ID_930542072" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://www.cs.cmu.edu/~mgormley/courses/10701-f16/slides/lecture3.pdf">
-<node TEXT="Sep 14 2016  Na&#xef;ve Bayes Assumption. &#x2013; Model 1: Bernoulli Na&#xef;ve Bayes. &#x2013; Model 2: Multinomial Na&#xef;ve Bayes. &#x2013; Model 3: Gaussian Na&#xef;ve Bayes." ID="ID_1054880316" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="CS340 Machine learning Na&#xef;ve Bayes classifiers" FOLDED="true" ID="ID_6203007" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://www.cs.ubc.ca/~murphyk/Teaching/CS340-Fall07/NB.pdf">
-<node TEXT="Bayes rule for classifiers p(y = c|x) =  independently (naive Bayes assumption). &#x2022; E.g. prob of  focus on the multivariate Bernoulli (binary features) model for&#xa0;" ID="ID_1422921041" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="Difference between Bernoulli and Multinomial Naive Bayes - Data " FOLDED="true" ID="ID_1889882197" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://datascience.stackexchange.com/questions/27624/difference-between-bernoulli-and-multinomial-naive-bayes">
-<node TEXT="Bernoulli models the presence/absence of a feature. Multinomial models the number of counts of a feature. Heres a concise explanation." ID="ID_1782765562" CREATED="1557224068603" MODIFIED="1557224068603"/>
+<node TEXT="The Bernoulli model" FOLDED="true" ID="ID_1599969301" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://nlp.stanford.edu/IR-book/html/htmledition/the-bernoulli-model-1.html">
+<node TEXT="Next: Properties of Naive Bayes Up: Text classification and Naive Previous:  An alternative to the multinomial model is the multivariate Bernoulli model or&#xa0;" ID="ID_1843172952" CREATED="1557224068603" MODIFIED="1557224068603"/>
 </node>
 </node>
-</node>
-<node TEXT="Multinomial Naive Bayes" ID="ID_827100250" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
+<node TEXT="Multinomial Naive Bayes" FOLDED="true" ID="ID_827100250" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
 <attribute NAME="Type" VALUE="syllabus_point"/>
-<node TEXT="Multinomial Naive Bayes#$D$#" FOLDED="true" ID="ID_412309271" CREATED="1557224068603" MODIFIED="1557225483438">
-<icon BUILTIN="stop-sign"/>
-<node TEXT="sklearn.naive_bayes.MultinomialNB &#x2014; scikit-learn 0.20.3 " FOLDED="true" ID="ID_1118584997" CREATED="1557224068603" MODIFIED="1557225479661" LINK="http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html">
-<node TEXT="The multinomial Naive Bayes classifier is suitable for classification with discrete features (e.g. word counts for text classification). The multinomial distribution&#xa0;" ID="ID_1231097154" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="Naive Bayes classifier - Wikipedia" FOLDED="true" ID="ID_150722619" CREATED="1557224068603" MODIFIED="1557225479661" LINK="https://en.wikipedia.org/wiki/Naive_Bayes_classifier">
-<node TEXT="With a multinomial event model samples (feature vectors) represent the frequencies with which certain events have&#xa0;" ID="ID_87468608" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="Multinomial Naive Bayes Classifier for Text Analysis (Python)" FOLDED="true" ID="ID_1698223045" CREATED="1557224068603" MODIFIED="1557225479677" LINK="https://towardsdatascience.com/multinomial-naive-bayes-classifier-for-text-analysis-python-8dd6825ece67">
-<node TEXT="Apr 9 2018  In this blog I will cover how you can implement a Multinomial Naive Bayes Classifier for the 20 Newsgroups dataset. The 20 newsgroups&#xa0;" ID="ID_622348314" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="bayesian - Difference between naive Bayes  multinomial naive " FOLDED="true" ID="ID_796238031" CREATED="1557224068603" MODIFIED="1557225479677" LINK="https://stats.stackexchange.com/questions/33185/difference-between-naive-bayes-multinomial-naive-bayes">
-<node TEXT="The general term Naive Bayes refers the the strong independence assumptions in the model rather than the particular distribution of each&#xa0;" ID="ID_417631372" CREATED="1557224068603" MODIFIED="1557224068603"/>
+<node TEXT="How does multinomial Naive Bayes work? - Quora" FOLDED="true" ID="ID_41198304" CREATED="1557224068603" MODIFIED="1557225479677" LINK="https://www.quora.com/How-does-multinomial-Naive-Bayes-work">
+<node TEXT="Check out this Naive Bayes Tutorial. It describes 3 Naive Bayes models (Multinomial Binarized and Benoulli) in the context of Text Classification. Note that&#xa0;" ID="ID_52772442" CREATED="1557224068603" MODIFIED="1557224068603"/>
 </node>
 <node TEXT="Applying Multinomial Naive Bayes to NLP Problems - GeeksforGeeks" FOLDED="true" ID="ID_340068158" CREATED="1557224068603" MODIFIED="1557225479677" LINK="https://www.geeksforgeeks.org/applying-multinomial-naive-bayes-to-nlp-problems/">
 <node TEXT="Naive Bayes Classifier Algorithm is a family of probabilistic algorithms based on applying Bayes theorem with the &#x201c;naive&#x201d; assumption of conditional&#xa0;" ID="ID_1487348245" CREATED="1557224068603" MODIFIED="1557224068603"/>
 </node>
-<node TEXT="Document Classification Using Multinomial Naive Bayes Classifier" FOLDED="true" ID="ID_1763701142" CREATED="1557224068603" MODIFIED="1557225479677" LINK="https://www.3pillarglobal.com/insights/document-classification-using-multinomial-naive-bayes-classifier">
-<node TEXT="A machine learning technique for using the Multinomial Naive Bayes algorithms to classify certain documents with specific keywords." ID="ID_1926165077" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="6 - 6 - Multinomial Naive Bayes- A Worked Example .mp4 - YouTube" FOLDED="true" ID="ID_623889698" CREATED="1557224068603" MODIFIED="1557225479677" LINK="https://www.youtube.com/watch?v=km2LoOpdB3A">
-<node TEXT="Apr 6 2012  6 - 6 - Multinomial Naive Bayes- A Worked Example .mp4. Rafael Merino Garc&#xed;a. Loading Unsubscribe from Rafael Merino Garc&#xed;a? Cancel" ID="ID_1561877858" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
 <node TEXT="Applying Multinomial Naive Bayes to NLP Problems: A Practical " FOLDED="true" ID="ID_497345406" CREATED="1557224068603" MODIFIED="1557225479677" LINK="https://medium.com/syncedreview/applying-multinomial-naive-bayes-to-nlp-problems-a-practical-explanation-4f5271768ebf">
 <node TEXT="Jul 17 2017  1.Introduction Naive Bayes is a family of algorithms based on applying Bayes theorem with a strong(naive) assumption that every feature is&#xa0;" ID="ID_441135984" CREATED="1557224068603" MODIFIED="1557224068603"/>
 </node>
-<node TEXT="How does multinomial Naive Bayes work? - Quora" FOLDED="true" ID="ID_41198304" CREATED="1557224068603" MODIFIED="1557225479677" LINK="https://www.quora.com/How-does-multinomial-Naive-Bayes-work">
-<node TEXT="Check out this Naive Bayes Tutorial. It describes 3 Naive Bayes models (Multinomial Binarized and Benoulli) in the context of Text Classification. Note that&#xa0;" ID="ID_52772442" CREATED="1557224068603" MODIFIED="1557224068603"/>
 </node>
-<node TEXT="Naive Bayes text classification" FOLDED="true" ID="ID_1015436646" CREATED="1557224068603" MODIFIED="1557225479677" LINK="https://nlp.stanford.edu/IR-book/html/htmledition/naive-bayes-text-classification-1.html">
-<node TEXT="The first supervised learning method we introduce is the multinomial Naive Bayes or multinomial NB model a probabilistic learning method. The probability of a&#xa0;" ID="ID_1562057620" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-</node>
-</node>
-<node TEXT="Gaussian Naive Bayes" ID="ID_1007021915" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
+<node TEXT="Gaussian Naive Bayes" FOLDED="true" ID="ID_1007021915" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
 <attribute NAME="Type" VALUE="syllabus_point"/>
-<node TEXT="Gaussian Naive Bayes#$D$#" FOLDED="true" ID="ID_1954517592" CREATED="1557224068603" MODIFIED="1557225483438">
+<node TEXT="Gaussian Naive Bayes#$D$#" ID="ID_1954517592" CREATED="1557224068603" MODIFIED="1557225483438">
 <icon BUILTIN="stop-sign"/>
 <node TEXT="sklearn.naive_bayes.GaussianNB &#x2014; scikit-learn 0.20.3 documentation" FOLDED="true" ID="ID_1647924165" CREATED="1557224068603" MODIFIED="1557225479677" LINK="http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html">
 <node TEXT="Examples using sklearn.naive_bayes.  Gaussian Naive Bayes (GaussianNB)  fit (X y[ sample_weight]) Fit Gaussian Naive Bayes according to X y." ID="ID_1754517328" CREATED="1557224068603" MODIFIED="1557224068603"/>
@@ -1747,9 +1618,6 @@
 </node>
 <node TEXT="IAML5.9: Gaussian Naive Bayes classifier - YouTube" FOLDED="true" ID="ID_770000882" CREATED="1557224068603" MODIFIED="1557225479677" LINK="https://www.youtube.com/watch?v=TcAQKPgymLE">
 <node TEXT="Sep 10 2015  IAML5.9: Gaussian Naive Bayes classifier. Victor Lavrenko. Loading Unsubscribe from Victor Lavrenko? Cancel Unsubscribe. Working." ID="ID_1339439576" CREATED="1557224068603" MODIFIED="1557224068603"/>
-</node>
-<node TEXT="Implementation of Gaussian Naive Bayes in Python from scratch" FOLDED="true" ID="ID_972609173" CREATED="1557224068603" MODIFIED="1557225479677" LINK="https://hackernoon.com/implementation-of-gaussian-naive-bayes-in-python-from-scratch-c4ea64e3944d">
-<node TEXT="Jan 23 2019  Gaussian Naive Bayes is an algorithm having a Probabilistic Approach. It involves prior and posterior probability calculation of the classes in&#xa0;" ID="ID_1848933879" CREATED="1557224068603" MODIFIED="1557224068603"/>
 </node>
 <node TEXT="Naive Bayes Classifiers - GeeksforGeeks" FOLDED="true" ID="ID_1677495924" CREATED="1557224068603" MODIFIED="1557225479677" LINK="https://www.geeksforgeeks.org/naive-bayes-classifiers/">
 <node TEXT="Naive Bayes classifiers are a collection of classification algorithms based on . Now we look at an implementation of Gaussian Naive Bayes classifier using&#xa0;" ID="ID_1536629625" CREATED="1557224068603" MODIFIED="1557224068603"/>
@@ -2930,7 +2798,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Clustering Techniques" POSITION="left" ID="ID_250522630" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
+<node TEXT="Clustering Techniques" FOLDED="true" POSITION="left" ID="ID_250522630" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">
 <edge COLOR="#00cc33"/>
 <attribute NAME="Type" VALUE="syllabus_point"/>
 <node TEXT="Hierarchical Clustering" ID="ID_429291585" CREATED="1563517391360" MODIFIED="1563517391360" Folded="true">

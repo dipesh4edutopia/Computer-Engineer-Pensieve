@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <attribute_registry SHOW_ATTRIBUTES="hide"/>
 <node TEXT="MachineLearning" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_191153586" CREATED="1562675315160" MODIFIED="1563517026553" ICON_SIZE="36.0 pt" LINK="../1_Machine%20Learning_MasterLookup.mm"><hook NAME="MapStyle">
-    <properties fit_to_viewport="false" show_icon_for_attributes="false" show_note_icons="true" edgeColorConfiguration="#ff0000ff,#ff0000ff,#ff0000ff,#ff0000ff,#ff0000ff,#ff0000ff,#ff0000ff,#ff0000ff,#ff0000ff,#ff0000ff,#ff0000ff,#ff0000ff"/>
+    <properties show_icon_for_attributes="false" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff0000ff,#ff0000ff,#ff0000ff,#ff0000ff,#ff0000ff,#ff0000ff,#ff0000ff,#ff0000ff,#ff0000ff,#ff0000ff,#ff0000ff,#ff0000ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
@@ -90,7 +90,7 @@
 <hook NAME="AutomaticEdgeColor" COUNTER="27" RULE="ON_BRANCH_CREATION"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font SIZE="20"/>
-<node TEXT="Application Domains" POSITION="right" ID="ID_1516265986" CREATED="1563179125256" MODIFIED="1563179125256">
+<node TEXT="Application Domains" FOLDED="true" POSITION="right" ID="ID_1516265986" CREATED="1563179125256" MODIFIED="1563179125256">
 <attribute NAME="Type" VALUE="syllabus_point"/>
 <edge COLOR="#ff0000"/>
 <node TEXT="Retail" FOLDED="true" ID="ID_1281529364" CREATED="1563179125256" MODIFIED="1563179125256">
@@ -218,7 +218,7 @@
 <node TEXT="Top 10 Machine Learning Youtube Channels To Follow" ID="ID_1985463860" CREATED="1557224068559" MODIFIED="1557224277326" LINK="https://blog.feedspot.com/machine_learning_youtube_channels/"/>
 <node TEXT="Top 10 Machine Learning Videos on YouTube - KDnuggets" ID="ID_752526110" CREATED="1557224068559" MODIFIED="1557224277326" LINK="https://www.kdnuggets.com/2015/06/top-10-machine-learning-videos-youtube.html"/>
 </node>
-<node TEXT="Yourstory" FOLDED="true" ID="ID_506375269" CREATED="1563179125256" MODIFIED="1563179125256">
+<node TEXT="Yourstory" ID="ID_506375269" CREATED="1563179125256" MODIFIED="1563179125256">
 <attribute NAME="Type" VALUE="syllabus_point"/>
 <node TEXT="Tag " ID="ID_775342836" CREATED="1563179125256" MODIFIED="1563179391080" LINK="https://yourstory.com/tag/Machine-Learning">
 <attribute NAME="Type" VALUE="syllabus_point"/>
@@ -281,14 +281,14 @@
 <node TEXT="The Social Determinants of Health: Applying AI  Machine " ID="ID_1323337641" CREATED="1557224068555" MODIFIED="1557224277157" LINK="https://www.cognizant.com/whitepapers/the-social-determinants-of-health-applying-ai-and-machine-learning-to-achieve-whole-person-care-codex4379.pdf"/>
 <node TEXT="These 5 startups are monitoring India&#x2019;s health with AI " ID="ID_1832745294" CREATED="1557224068558" MODIFIED="1557224277322" LINK="https://yourstory.com/2019/04/startups-monitoring-india-health-machine-learning"/>
 </node>
-<node TEXT="Behavioral Science + Machine Learning = More Social Impact" ID="ID_204931874" CREATED="1557224068555" MODIFIED="1557224277129" LINK="http://www.ideas42.org/blog/behavioral-science-machine-learning-social-impact/">
+<node TEXT="Behavioral Science + Machine Learning = More Social Impact" FOLDED="true" ID="ID_204931874" CREATED="1557224068555" MODIFIED="1557224277129" LINK="http://www.ideas42.org/blog/behavioral-science-machine-learning-social-impact/">
 <node TEXT="At ideas42 we&#x2019;ve been working at the intersection of these disciplines for many years to design effective and beneficial programs and we can now fully leverage the power of data science and machine learning to magnify our social impact at scale. We believe machine learning is poised to revolutionize the application of behavioral science." ID="ID_1717725978" CREATED="1557224068555" MODIFIED="1557224068555"/>
 </node>
 <node TEXT="Deloitte machine learning model quantifies social impact " FOLDED="true" ID="ID_176477479" CREATED="1557224068555" MODIFIED="1557224277133" LINK="https://azbigmedia.com/deloitte-machine-learning-model-quantifies-social-impact-of-a-business/">
 <node TEXT="As companies are becoming increasingly focused on the social impact of their business operations Deloitte has developed a new Social Impact Measurement Model (SIMM) pioneering a machine learning " ID="ID_1937858293" CREATED="1557224068555" MODIFIED="1557224068555"/>
 </node>
 </node>
-<node TEXT="Research Papers" FOLDED="true" POSITION="left" ID="ID_1155092512" CREATED="1563179125257" MODIFIED="1564652399583">
+<node TEXT="Research Papers" POSITION="left" ID="ID_1155092512" CREATED="1563179125257" MODIFIED="1586348557818">
 <attribute NAME="Type" VALUE="syllabus_point"/>
 <edge COLOR="#ff0000"/>
 <richcontent TYPE="NOTE">
@@ -303,6 +303,7 @@
     </p>
   </body>
 </html>
+
 </richcontent>
 <node TEXT="[Discussion] Best Research Paper in" ID="ID_658753720" CREATED="1563179125257" MODIFIED="1563179125257">
 <node TEXT="2019" ID="ID_1797099291" CREATED="1563179125257" MODIFIED="1563179125257"/>
